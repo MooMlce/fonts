@@ -1,0 +1,127 @@
+<svg width="620" height="500" xmlns="http://www.w3.org/2000/svg">
+<!-- Cat start -->
+  <ellipse
+    cx="170"
+    cy="250"
+    rx="50"
+    ry="15"
+    fill="#c3c3c3"
+  />
+  <circle
+    cx="170"
+    cy="180"
+    r="70"
+    fill="orange"
+  />
+  <ellipse
+    rx="50"
+    ry="20"
+    fill="orange"
+    transform="rotate(20 -470 300)"
+  />
+  <polygon
+    points="48,187 28,162 58,156"
+    fill="white"
+  />
+  <polygon
+    points="121,130 128,106  157,117"
+    fill="orange"
+  />
+  <polygon
+    points="125,127 130,110  145,115"
+    fill="black"
+  />
+  <polygon
+    points="192,114 211,107  218,129"
+    fill="orange"
+  />
+  <polygon
+    points="195,115 210,110  215,127"
+    fill="black"
+  />
+  <circle
+    cx="160"
+    cy="170"
+    r="30"
+    fill="white"
+  />
+  <circle
+    cx="200"
+    cy="170"
+    r="30"
+    fill="white"
+  />
+  <circle
+    cx="165"
+    cy="170"
+    r="7"
+    fill="black"
+  />
+  <circle
+    cx="205"
+    cy="170"
+    r="7"
+    fill="black"
+  />
+  <circle
+    cx="180"
+    cy="200"
+    r="10"
+    fill="black"
+  />
+  <ellipse
+    cx="170"
+    cy="225"
+    rx="10"
+    ry="5"
+    fill="#cb3e02"
+  />
+<!-- Cat end -->
+
+<!-- Bun start-->
+  <ellipse
+    cx="370"
+    cy="250"
+    rx="50"
+    ry="15"
+    fill="#c3c3c3"
+  />
+  <circle
+    cx="370"
+    cy="180"
+    r="70"
+    fill="#ffd600"
+  />
+  <circle
+    cx="380"
+    cy="170"
+    r="30"
+    fill="white"
+  />
+  <circle
+    cx="340"
+    cy="170"
+    r="30"
+    fill="white"
+  />
+  <circle
+    cx="375"
+    cy="170"
+    r="7"
+    fill="black"
+  />
+  <circle
+    cx="335"
+    cy="170"
+    r="7"
+    fill="black"
+  />
+  <ellipse
+    cx="360"
+    cy="220"
+    rx="5"
+    ry="10"
+    fill="#cb3e02"
+  />
+<!-- Bun end-->
+</svg>
